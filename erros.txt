@@ -1,0 +1,4 @@
+! cat /tmp/wifi-backend.log
+nohup: ignorando entrada
+# github.com/leozxinho/wifi-sensing/internal/infrastructure/server
+internal/infrastructure/server/app.go:183:8: assignment mismatch: 1 variable but a.presenceRepo.Save returns 2 values
