@@ -1,7 +1,4 @@
 {
   "framework": "nextjs",
-  "buildCommand": "npm install --legacy-peer-deps && npm run build",
-  "env": {
-    "NEXT_PUBLIC_API_URL": "@wifi_backend_url"
-  }
+  "buildCommand": "npm install --legacy-peer-deps && npm run build"
 }
